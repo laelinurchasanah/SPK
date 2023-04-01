@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_channel" value="name:id_channel;datatype:int,name:kode_channel;datatype:string,name:pemilik_channel;datatype:string,name:pic_channel;datatype:int,name:alamat_channel;datatype:string,name:photo_channel;datatype:string,name:ktp_channel;datatype:string,name:active_channel;datatype:string,name:waktuawal_channel;datatype:timestamp,name:ct_channel;datatype:datetime,name:ut_channel;datatype:datetime,name:rt_channel;datatype:datetime,name:cb_channel;datatype:int,name:ub_channel;datatype:int,name:rb_channel;datatype:int" />
+</info>

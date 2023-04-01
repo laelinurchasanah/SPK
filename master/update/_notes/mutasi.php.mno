@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_mutasi" value="name:id_mutasi;datatype:int,name:tipe_mutasi;datatype:string,name:tgl_mutasi;datatype:date,name:nomesin_mutasi;datatype:string,name:helm_mutasi;datatype:int,name:jaket_mutasi;datatype:int,name:toolset_mutasi;datatype:int,name:buser_mutasi;datatype:int,name:buped_mutasi;datatype:int,name:lainnya_mutasi;datatype:blob,name:idpos_mutasi;datatype:int,name:ct_mutasi;datatype:datetime,name:ut_mutasi;datatype:datetime,name:rt_mutasi;datatype:datetime,name:cb_mutasi;datatype:int,name:ub_mutasi;datatype:int,name:rb_mutasi;datatype:int,name:tanggalawal_mutasi;datatype:timestamp,name:active_mutasi;datatype:string" />
+</info>

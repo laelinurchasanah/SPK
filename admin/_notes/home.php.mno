@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_transaksi" value="name:id_pegawai;datatype:int,name:nama_pegawai;datatype:string,name:id_pos;datatype:int,name:nama_pos;datatype:string,name:kode_penerimaankas;datatype:string,name:periode_penerimaankas;datatype:string,name:BykTransaksi;datatype:int" />
+	<infoitem key="UD_rs_pos" value="name:id_pos;datatype:int,name:kode_pos;datatype:string,name:nama_pos;datatype:string,name:alamat_pos;datatype:string,name:telp_pos;datatype:string,name:active_pos;datatype:string,name:waktuawal_pos;datatype:timestamp,name:ct_pos;datatype:datetime,name:ut_pos;datatype:datetime,name:rt_pos;datatype:datetime,name:cb_pos;datatype:int,name:ub_pos;datatype:int,name:rb_pos;datatype:int" />
+	<infoitem key="UD_rs_top" value="name:id_pegawai;datatype:int,name:nama_pegawai;datatype:string,name:id_pos;datatype:int,name:nama_pos;datatype:string,name:kode_penerimaankas;datatype:string,name:periode_penerimaankas;datatype:string,name:BykTransaksi;datatype:int" />
+	<infoitem key="UD_rs_grafik" value="name:periode_penerimaankas;datatype:string,name:tanggal_penerimaankas;datatype:date,name:BykTransaksi;datatype:int" />
+	<infoitem key="UD_rs_grafikB" value="name:periode_penerimaankas;datatype:string,name:tanggal_penerimaankas;datatype:date,name:BykTransaksi;datatype:int" />
+	<infoitem key="UD_rs_dashboard" value="name:id_pengunjung;datatype:int,name:nomor_pengunjung;datatype:int,name:jk_pengunjung;datatype:string,name:nama_pengunjung;datatype:string,name:pekerjaan_pengunjung;datatype:int,name:hp_pengunjung;datatype:string,name:alamat_pengunjung;datatype:string,name:tanggal_pengunjung;datatype:date,name:today_pengunjung;datatype:timestamp,name:status_pengunjung;datatype:string,name:photo;datatype:blob" />
+	<infoitem key="UD_rs_alternatif" value="name:id_alternatif;datatype:int,name:nama_alternatif;datatype:string,name:preferentif;datatype:real" />
+</info>

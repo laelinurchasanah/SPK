@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_bstk" value="name:id_bstk;datatype:int,name:no_bstk;datatype:string,name:bon_bstk;datatype:string,name:donoI_bstk;datatype:string,name:donoII_bstk;datatype:string,name:tanggal_bstk;datatype:date,name:type_bstk;datatype:int,name:mesin_bstk;datatype:int,name:ket_bstk;datatype:string,name:ct_bstk;datatype:datetime,name:ut_bstk;datatype:datetime,name:rt_bstk;datatype:datetime,name:cb_bstk;datatype:int,name:ub_bstk;datatype:int,name:rb_bstk;datatype:int,name:tanggalawal_bstk;datatype:date,name:active_bstk;datatype:string" />
+	<infoitem key="UD_rs_kategori" value="name:id_kategori;datatype:int,name:nama_kategori;datatype:string,name:active_kategori;datatype:string" />
+</info>

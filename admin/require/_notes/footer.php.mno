@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_grafik" value="name:periode_penerimaankas;datatype:string,name:tanggal_penerimaankas;datatype:date,name:BykTransaksi;datatype:int" />
+</info>

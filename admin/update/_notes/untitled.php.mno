@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_profile" value="name:id_admin;datatype:int,name:Login;datatype:string,name:Password;datatype:string,name:nama_admin;datatype:string,name:gender_admin;datatype:string,name:address_admin;datatype:string,name:email_admin;datatype:string,name:hp_admin;datatype:string,name:Level;datatype:int,name:active_admin;datatype:string,name:ct;datatype:datetime,name:ut;datatype:datetime,name:rt;datatype:datetime,name:waktuawal_admin;datatype:timestamp,name:cb;datatype:int,name:ub;datatype:int,name:rb;datatype:int,name:key_admin;datatype:string" />
+</info>

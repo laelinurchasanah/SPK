@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_sum" value="name:jumlahPeserta;datatype:int" />
+	<infoitem key="UD_rs_paket" value="name:jumlahPaket;datatype:int" />
+	<infoitem key="UD_rs_soal" value="name:jumlahSoal;datatype:int" />
+	<infoitem key="UD_rs_jadwal" value="name:jumlahJadwal;datatype:int" />
+	<infoitem key="UD_rs_alternatif" value="name:jumlahAlternatif;datatype:int" />
+</info>

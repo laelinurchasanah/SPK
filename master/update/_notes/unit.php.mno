@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_unit" value="name:id_unit;datatype:int,name:smh_unit;datatype:int,name:warna_unit;datatype:string,name:kodewarna_unit;datatype:string,name:mesin_unit;datatype:string,name:rangka_unit;datatype:string,name:tahun_unit;datatype:year,name:statusmilik_unit;datatype:string,name:status_unit;datatype:string,name:tanggal_unit;datatype:date,name:sales_unit;datatype:int,name:supir_unit;datatype:int,name:ct_unit;datatype:datetime,name:ut_unit;datatype:datetime,name:rt_unit;datatype:datetime,name:cb_unit;datatype:int,name:ub_unit;datatype:int,name:rb_unit;datatype:int,name:active_unit;datatype:string" />
+</info>

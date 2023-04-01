@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_group" value="name:id_group;datatype:int,name:nama_group;datatype:string,name:alamat_group;datatype:string,name:active_group;datatype:string" />
+</info>

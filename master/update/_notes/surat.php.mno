@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_surat" value="name:id_surat;datatype:int,name:tanggal_surat;datatype:date,name:jenis_surat;datatype:string,name:no_surat;datatype:string,name:supir_surat;datatype:int,name:penerima_surat;datatype:string,name:ket_surat;datatype:string,name:tanggalawal_surat;datatype:timestamp,name:ct_surat;datatype:datetime,name:ut_surat;datatype:datetime,name:rt_surat;datatype:datetime,name:cb_surat;datatype:int,name:ub_surat;datatype:int,name:rb_surat;datatype:int,name:active_surat;datatype:string" />
+</info>

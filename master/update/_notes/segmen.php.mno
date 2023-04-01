@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_segmen" value="name:id_segmen;datatype:int,name:nama_segmen;datatype:string,name:active_segmen;datatype:string" />
+</info>

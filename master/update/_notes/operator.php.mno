@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_operator" value="name:id_operator;datatype:int,name:Login;datatype:string,name:Password;datatype:string,name:Level;datatype:int,name:nama_operator;datatype:string,name:gender_operator;datatype:string,name:alamat_operator;datatype:string,name:email_operator;datatype:string,name:nohp_operator;datatype:string,name:photo_operator;datatype:string,name:ket_operator;datatype:string,name:ct_operator;datatype:datetime,name:ut_operator;datatype:datetime,name:rt_operator;datatype:datetime,name:cb_operator;datatype:int,name:ub_operator;datatype:int,name:rb_operator;datatype:int,name:waktuawal_operator;datatype:timestamp,name:key_operator;datatype:string,name:active_operator;datatype:string" />
+</info>

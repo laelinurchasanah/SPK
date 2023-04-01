@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_alternatif" value="name:id_alternatif;datatype:int,name:nama_alternatif;datatype:string,name:preferentif;datatype:real" />
+</info>

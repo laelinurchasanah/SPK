@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_item" value="name:id_item;datatype:int,name:kategori_item;datatype:string,name:surat_item;datatype:int,name:mesin_item;datatype:string,name:tanggal_item;datatype:date,name:ct_item;datatype:datetime,name:ut_item;datatype:datetime,name:rt_item;datatype:datetime,name:cb_item;datatype:int,name:ub_item;datatype:int,name:rb_item;datatype:int,name:tanggalawal_item;datatype:timestamp,name:ta_item;datatype:string,name:keterangan_item;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_dokumentasi" value="name:id_dokumentasi;datatype:int,name:tanggal_dokumentasi;datatype:date,name:noktp_dokumentasi;datatype:string,name:namapembeli_dokumentasi;datatype:string,name:alamat_dokumentasi;datatype:string,name:telpon_dokumentasi;datatype:string,name:photo_dokumentasi;datatype:string,name:supir_dokumentasi;datatype:string,name:lokasi_dokumentasi;datatype:string,name:keterangan_dokumentasi;datatype:string,name:ct_dokumentasi;datatype:datetime,name:ut_dokumentasi;datatype:datetime,name:rt_dokumentasi;datatype:datetime,name:cb_dokumentasi;datatype:int,name:ub_dokumentasi;datatype:int,name:rb_dokumentasi;datatype:int,name:tanggalawal_dokumentasi;datatype:timestamp,name:active_dokumentasi;datatype:string" />
+</info>

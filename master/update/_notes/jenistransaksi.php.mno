@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_jenistransaksi" value="name:id_jenistransaksi;datatype:int,name:kode_jenistransaksi;datatype:string,name:nama_jenistransaksi;datatype:string,name:active_jenistransaksi;datatype:string" />
+</info>

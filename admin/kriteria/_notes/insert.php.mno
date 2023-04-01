@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_faktor" value="name:id_faktor;datatype:int,name:nama_faktor;datatype:string,name:persen_faktor;datatype:real" />
+	<infoitem key="UD_rs_kriteria" value="name:id_kriteria;datatype:int,name:kode_kriteria;datatype:string,name:nama_kriteria;datatype:string,name:faktor_id;datatype:int" />
+</info>

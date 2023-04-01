@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_photos" value="name:id_photo;datatype:int,name:pemilik_photo;datatype:int,name:images_photo;datatype:string,name:waktuawal_photo;datatype:timestamp,name:tanggal_photo;datatype:date,name:ct_photo;datatype:datetime,name:ut_photo;datatype:datetime,name:rt_photo;datatype:datetime,name:cb_photo;datatype:int,name:ub_photo;datatype:int,name:rb_photo;datatype:int,name:active_photo;datatype:string" />
+	<infoitem key="UD_rs_login" value="name:ID;datatype:int,name:Login;datatype:string,name:Password;datatype:string,name:Level;datatype:int,name:Nama;datatype:string" />
+	<infoitem key="UD_rs_config" value="name:id_config;datatype:int,name:title;datatype:string,name:deskripsi;datatype:string,name:header;datatype:string,name:footer;datatype:string,name:text1;datatype:string,name:text2;datatype:string,name:text3;datatype:string" />
+	<infoitem key="UD_rs_menu" value="name:id_menu;datatype:int,name:nourut_menu;datatype:int,name:link_menu;datatype:string,name:icon_menu;datatype:string,name:text_menu;datatype:string,name:color_menu;datatype:string,name:label_menu;datatype:string,name:level_menu;datatype:int" />
+	<infoitem key="UD_rs_tap" value="name:id_ta;datatype:int,name:kode_ta;datatype:string,name:nama_ta;datatype:string,name:ket_ta;datatype:string" />
+</info>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_posting" value="name:id_posting;datatype:int,name:title_posting;datatype:string,name:kategori_posting;datatype:int,name:konten_posting;datatype:blob,name:image_posting;datatype:string,name:ct_posting;datatype:datetime,name:ut_posting;datatype:datetime,name:rt_posting;datatype:datetime,name:cb_posting;datatype:int,name:ub_posting;datatype:int,name:rb_posting;datatype:int,name:waktuawal_posting;datatype:timestamp,name:active_posting;datatype:string" />
+	<infoitem key="UD_rs_soalfile" value="name:id_posting;datatype:int,name:image_posting;datatype:string" />
+	<infoitem key="UD_rs_galeri" value="name:id_photoposting;datatype:int,name:pemilik_photoposting;datatype:int,name:images_photoposting;datatype:string,name:waktuawal_photoposting;datatype:timestamp,name:tanggal_photoposting;datatype:date,name:ct_photoposting;datatype:datetime,name:ut_photoposting;datatype:datetime,name:rt_photoposting;datatype:datetime,name:cb_photoposting;datatype:int,name:ub_photoposting;datatype:int,name:rb_photoposting;datatype:int,name:active_photoposting;datatype:string" />
+</info>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_photos" value="name:id_photo;datatype:int,name:pemilik_photo;datatype:int,name:images_photo;datatype:string,name:waktuawal_photo;datatype:timestamp,name:tanggal_photo;datatype:date,name:ct_photo;datatype:datetime,name:ut_photo;datatype:datetime,name:rt_photo;datatype:datetime,name:cb_photo;datatype:int,name:ub_photo;datatype:int,name:rb_photo;datatype:int,name:active_photo;datatype:string" />
+	<infoitem key="UD_rs_soalfile" value="name:id_soal;datatype:int,name:file_soal;datatype:string" />
+	<infoitem key="UD_rs_galeri" value="name:id_photo;datatype:int,name:pemilik_photo;datatype:int,name:images_photo;datatype:string,name:waktuawal_photo;datatype:timestamp,name:tanggal_photo;datatype:date,name:ct_photo;datatype:datetime,name:ut_photo;datatype:datetime,name:rt_photo;datatype:datetime,name:cb_photo;datatype:int,name:ub_photo;datatype:int,name:rb_photo;datatype:int,name:active_photo;datatype:string" />
+</info>

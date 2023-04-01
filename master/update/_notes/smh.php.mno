@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_smh" value="name:id_smh;datatype:int,name:segmen_smh;datatype:int,name:kategori_smh;datatype:int,name:kode_smh;datatype:string,name:nama_smh;datatype:string,name:cc_smh;datatype:int,name:tanggalawal_smh;datatype:timestamp,name:ct_smh;datatype:datetime,name:ut_smh;datatype:datetime,name:rt_smh;datatype:datetime,name:cb_smh;datatype:int,name:ub_smh;datatype:int,name:rb_smh;datatype:int,name:active_smh;datatype:string,name:ket_smh;datatype:string" />
+</info>

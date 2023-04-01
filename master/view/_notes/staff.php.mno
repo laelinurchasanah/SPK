@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_bstk" value="name:id_bstk;datatype:int,name:no_bstk;datatype:string,name:bon_bstk;datatype:string,name:donoI_bstk;datatype:string,name:donoII_bstk;datatype:string,name:tanggal_bstk;datatype:date,name:type_bstk;datatype:int,name:mesin_bstk;datatype:int,name:ket_bstk;datatype:string,name:ct_bstk;datatype:datetime,name:ut_bstk;datatype:datetime,name:rt_bstk;datatype:datetime,name:cb_bstk;datatype:int,name:ub_bstk;datatype:int,name:rb_bstk;datatype:int,name:tanggalawal_bstk;datatype:date,name:active_bstk;datatype:string" />
+	<infoitem key="UD_rs_staff" value="name:id_staff;datatype:int,name:Login;datatype:string,name:Password;datatype:string,name:nama_staff;datatype:string,name:gender_staff;datatype:string,name:email_staff;datatype:string,name:hp_staff;datatype:string,name:Level;datatype:int,name:active_staff;datatype:string,name:waktuawal_staff;datatype:timestamp,name:ct_staff;datatype:datetime,name:ut_staff;datatype:datetime,name:rt_staff;datatype:datetime,name:cb_staff;datatype:int,name:ub_staff;datatype:int,name:rb_staff;datatype:int" />
+</info>

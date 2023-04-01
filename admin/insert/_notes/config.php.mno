@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_config" value="name:id_config;datatype:int,name:title;datatype:string,name:deskripsi;datatype:string,name:header;datatype:string,name:footer;datatype:string,name:text1;datatype:string,name:text2;datatype:string,name:text3;datatype:string" />
+</info>

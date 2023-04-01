@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_posting" value="name:id_posting;datatype:int,name:title_posting;datatype:string,name:image_posting;datatype:string,name:ct_posting;datatype:datetime,name:cb_posting;datatype:int,name:waktuawal_posting;datatype:timestamp,name:active_posting;datatype:string" />
+</info>

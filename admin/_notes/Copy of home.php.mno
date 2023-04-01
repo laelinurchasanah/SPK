@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_transaksi" value="name:id_pegawai;datatype:int,name:nama_pegawai;datatype:string,name:id_pos;datatype:int,name:nama_pos;datatype:string,name:kode_penerimaankas;datatype:string,name:periode_penerimaankas;datatype:string,name:BykTransaksi;datatype:int" />
+	<infoitem key="UD_rs_pos" value="name:id_pos;datatype:int,name:kode_pos;datatype:string,name:nama_pos;datatype:string,name:alamat_pos;datatype:string,name:telp_pos;datatype:string,name:active_pos;datatype:string,name:waktuawal_pos;datatype:timestamp,name:ct_pos;datatype:datetime,name:ut_pos;datatype:datetime,name:rt_pos;datatype:datetime,name:cb_pos;datatype:int,name:ub_pos;datatype:int,name:rb_pos;datatype:int" />
+</info>
